@@ -1,0 +1,83 @@
+.DataGridStyle{
+    width:100%;
+    background-color: #283D4A;
+    color: white;
+    height: 330px;
+    border: 0px;
+}
+.logoimg{
+    background-color: #2D4250 !important;
+    color: white;
+}
+.dialogbuttons{
+    border: 0.7px white solid !important;
+    color: white !important;
+    border-radius: 4px;
+    width: 200px;
+}
+.addbuttons{
+    border: 0.7px white solid !important;
+    color: white !important;
+    border-radius: 4px;
+    width: 420px;
+}
+.footercss{
+    background-color: #2D4250;
+    height: 62px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%
+}
+
+.buttons{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    background-color:#283D4A;
+    color: white;
+    padding: 20px;
+}
+
+.buttonind{
+    width: 160px !important;
+    font-size: small !important;
+    height: 31px;
+}
+.fieldsarr{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
+/* .addgrid{
+    display:grid;
+    grid-gap: 30px;
+} */
+
+.additems{
+    padding-top: 10px !important;
+}
+.refreshicon{
+    border:1px solid rgb(25, 118, 210);
+    border-radius: 2px;
+    color: rgb(25, 118, 210);
+}
+.refreshicon:hover{
+    border:1px solid rgb(25, 118, 210);
+    border-radius: 2px;
+    color: rgb(25, 118, 210);
+}
+
+.customerinputcss{
+    width: 170px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.editin{
+    width: 200px;
+}

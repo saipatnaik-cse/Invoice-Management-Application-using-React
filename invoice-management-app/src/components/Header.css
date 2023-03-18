@@ -1,0 +1,25 @@
+.logos{
+    display: flex;
+    background: #2D4250;
+    padding-top: 10px;
+}
+
+.abcimg{
+    position: absolute;
+}
+.hrcimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titlehrc{
+    background: #2D4250;
+    text-align: left;
+    padding-left: 12px;
+    color: white;
+    padding-bottom: 8px;
+    padding-top: 6px;
+    font-size: large;
+    font-weight: 750;
+}
